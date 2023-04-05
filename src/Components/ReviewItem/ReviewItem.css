@@ -1,0 +1,34 @@
+.review-container {
+    border: 1px solid rgba(46, 41, 11, 0.856);
+    width: 571px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 8px;
+    display: flex;
+}
+
+
+.review-container .product-title {
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+}
+.review-details {
+    flex-grow: 1;
+}
+.review-container p {
+    margin: 0 15px;
+}
+
+.review-container img {
+    width: 91px;
+    height: 91px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+.review-btn {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
