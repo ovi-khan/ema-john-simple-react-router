@@ -8,3 +8,16 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
 }
+.review-order-btn {
+    margin-top: 10px;
+    width: 100%;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: rgba(216, 83, 21, 0.76);
+    border: none;
+}
+.review-order-btn:hover {
+    background-color: rgba(143, 207, 23, 0.24);
+}

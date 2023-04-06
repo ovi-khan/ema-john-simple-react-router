@@ -1,3 +1,16 @@
 .single-order {
     margin: 50px;
 }
+.proceed-check-btn {
+    width: 100%;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: rgba(216, 83, 21, 0.76);
+    border: none;
+    margin-top: 10px;
+}
+.proceed-check-btn:hover {
+    background-color: rgba(143, 207, 23, 0.24);
+}
